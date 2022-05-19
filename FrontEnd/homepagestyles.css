@@ -1,0 +1,66 @@
+body
+{
+   
+    background-image: url('/images/homepageImage.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    opacity:0.5;
+}
+
+
+#book
+{
+position:relative;
+right:-30px;
+top:60px;
+font-size:30px;
+color:  black;
+}
+
+.buttons 
+{
+    position:relative;
+    top:220px;
+    right:-50px;
+    width: 30%;
+    background-color: black;
+}
+#patient
+{
+ 
+  background-color: white;
+  border: 1px solid black;
+  height: 50px;
+  width:40%;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 10px;
+  box-shadow: 3px black;
+  border-style: outset;
+  border: 5px solid black;
+  border-style: outset;
+  font-weight: bold;
+  box-shadow: 10px 10px;
+ 
+}
+#doctor
+{
+ 
+  background-color: #ffffff;
+  border: 1px solid black;
+  height: 50px;
+  width:40%;
+  text-align: center;
+  line-height: 45px;
+  border-radius: 10px;
+  border: 5px solid black;
+  border-style: outset;
+  font-weight: bold;
+  box-shadow: 10px 10px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+}
